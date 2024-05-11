@@ -23,4 +23,4 @@ To get started with this project, follow these steps:
    npm start
    ```sh
 ##Usage
-simple to do app, 
+simple to do app
