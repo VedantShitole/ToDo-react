@@ -1,0 +1,17 @@
+[33mcommit 0ea97bab910e2d57e2bb0f517860483605d3bf88[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mchange[m[33m)[m
+Author: vedantdemon <shitolevedant@gmail.com>
+Date:   Sat May 11 15:28:14 2024 +0530
+
+    cHANGE
+
+[33mcommit 360769c4370df4d3bdef9e72a7b52c82fda653c2[m[33m ([m[1;32mnew-branch-name[m[33m)[m
+Author: vedantdemon <shitolevedant@gmail.com>
+Date:   Sat May 11 14:50:58 2024 +0530
+
+    Initial commit
+
+[33mcommit 6a6705dd0bd943910e52bbf93a3a72785758a493[m
+Author: Vedant.Shitole <shitolevedant@gmail.com>
+Date:   Sat May 11 13:28:54 2024 +0530
+
+    Initialize project using Create React App
