@@ -11,7 +11,7 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine.
    ```sh
    git clone https://github.com/VedantShitole/toDo-react.git
-   ```sh  
+   ```  
 3. Navigate to the project folder:
    ```sh
    cd todo-react
@@ -20,12 +20,12 @@ To get started with this project, follow these steps:
    ```sh
    npm install bootstrap
    npm install react-bootstrap
-   ```sh
+   ```
 5. Start the development server:
    ```sh
    npm start
-   ```sh
-
+   ```
+   
 ## Usage
 
 Simple to-do app.
